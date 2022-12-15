@@ -1,0 +1,84 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- TemplateBeginEditable name="editr" -->
+<meta name="description" content="Hi this page has little things to say about me !">
+<title>Light Theme</title>
+<!-- TemplateEndEditable -->
+<link href= "../minimalisticostyle.css" rel="stylesheet" type="text/css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;600&display=swap" rel="stylesheet">
+	
+
+</head>
+<body>
+<div class="container"> 
+  <header class="header">
+	  
+    <h4 class="logo">MINIMALISTICO</h4>
+      <img src= "../images/wm.png"  alt="logo" class="wm">
+	  <p class="slogan">Less Is More</p>
+
+  </header>
+<nav>
+	
+	<ul>
+		<li><a href="../index.html">HOME</a></li>
+        <li><a href="../trends.html">TRENDS</a></li>
+        <li> <a href="../About.html">ABOUT </a></li>
+		<li> <a href="../About.html">BLOG </a></li>
+
+		
+		</ul>
+	</nav>
+	
+<!-- TemplateBeginEditable name="EditRegion1" -->
+<section class="intro">
+  <div class="column">
+    <h3>ABOUT MINIMALISTICO</h3>
+    <h1></h1>
+    <img src= "../images/wm.png" alt="" class="profile"></div>
+  <div class="column">
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla </p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</p>
+  </div>
+</section>
+<div class="gallery">
+  <div class="thumbnail"> <a href="#"><img src="file:///Macintosh HD/Users/walid/Desktop/SIUE/Writing and Web/images/bkg_06.jpg" alt="" width="2000" class="cards"/></a>
+    <h4>TITLE</h4>
+    <p class="tag">HTML, CSS, JS, WordPress</p>
+    <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+  </div>
+  <div class="thumbnail"> <a href="#"><img src="file:///Macintosh HD/Users/walid/Desktop/SIUE/Writing and Web/images/bkg_06.jpg" alt="" width="2000" class="cards"/></a>
+    <h4>TITLE</h4>
+    <p class="tag">HTML, CSS, JS, WordPress</p>
+    <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+  </div>
+  <div class="thumbnail"> <a href="#"><img src="file:///Macintosh HD/Users/walid/Desktop/SIUE/Writing and Web/images/bkg_06.jpg" alt="" width="2000" class="cards"/></a>
+    <h4>TITLE</h4>
+    <p class="tag">HTML, CSS, JS, WordPress</p>
+    <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+  </div>
+  <div class="thumbnail"> <a href="#"><img src="file:///Macintosh HD/Users/walid/Desktop/SIUE/Writing and Web/images/bkg_06.jpg" alt="" width="2000" class="cards"/></a>
+    <h4>TITLE</h4>
+    <p class="tag">HTML, CSS, JS, WordPress</p>
+    <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+  </div>
+</div>
+<!-- TemplateEndEditable -->
+<footer id="contact">
+  <h4>hi</h4>
+  <h3 class="hero_header">GET IN TOUCH WITH ME AT:</h3>
+  <h5></h5>
+  <p class="hero_header"> <a class="mail" href="mailto:welkhou@siue.edu">welkhou@siue.edu</a></p>
+  <h5></h5>
+  <p class="hero_header">WALID EL KHOUMMADI</p>
+</footer>
+<div class="copyright">&copy;2022 - <strong>WELK</strong></div>
+</div>
+</body>
+</html>
