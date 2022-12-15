@@ -294,6 +294,15 @@ footer {
 
 /* Mobile */
 @media (max-width: 320px) {
+	
+.profile3{
+	width: 50%;
+		
+	display: block;
+		
+	margin-left: 50%;
+	margin-top:50%;		
+}
 .logo {
 	width: 100%;
 	text-align: center;
@@ -342,6 +351,14 @@ footer {
 	margin-bottom: 0px;
 	margin-left: 0px;
 }
+.profile3{
+	width: 50%;
+		
+	display: block;
+		
+	margin-left: 50%;
+	margin-top:50%;		
+}
 	
 
 .text_column {
@@ -389,6 +406,14 @@ footer {
 		
 .text_column {
 	width: 100%;
+}
+.profile3{
+	width: 50%;
+		
+	display: block;
+		
+	margin-left: 50%;
+	margin-top:50%;		
 }
 .thumbnail {
 	width: 48%;
